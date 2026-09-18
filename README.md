@@ -9,7 +9,7 @@ then computes and displays the simple interest.
 Simple Interest Calculator
 
 ## Author
-Your Name
+Zineb Nafil
 
 ## License
 Apache License 2.0
