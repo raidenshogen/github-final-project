@@ -1,0 +1,23 @@
+{
+  "id": 123456789,
+  "node_id": "R_abc123",
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "your_github_username/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "owner": {
+    "login": "your_github_username",
+    "id": 987654321,
+    "type": "User"
+  },
+  "html_url": "https://github.com/your_github_username/mcino-Introduction-to-Git-and-GitHub",
+  "description": "Introduction to Git and GitHub",
+  "fork": true,
+  "parent": {
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  "source": {
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
